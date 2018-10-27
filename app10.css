@@ -1,0 +1,23 @@
+i{
+	padding: 5px;
+}
+.trip{
+	padding: 27px;
+}
+h1{
+	text-align: center;
+	color:orchid;
+	margin-top: 10%;
+	padding-bottom: 8px;
+
+}
+body{
+	height:100%;
+	background: url(Pictures/R.jpg);
+	
+	background-size: cover;
+
+}
+html{
+	height: 100%;
+}

@@ -1,0 +1,59 @@
+.trip{
+	padding: 27px;
+}
+body{
+	background:url(Pictures/J.jpg);
+	background-size:cover;
+	height: 100%;
+	
+}
+html{
+	height: 100%;
+}
+.jumbotron{
+	
+	background: green;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 120px;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.1)
+	 
+}
+h2{
+	text-align: center;
+	font-family: 'KoHo', sans-serif;
+	font-size: 35px;
+}
+h3{
+	text-align: center;
+	font-family: 'KoHo', sans-serif;
+	color: white;
+}
+i{
+	padding: 5px;
+}
+ul{
+	margin-left: 5%;
+	list-style: none;
+}
+span{
+	font-size: 30px;
+	font-weight: 800;
+	display: block;
+	color: brown;
+	text-decoration: underline;
+	line-height: 2;
+}
+.A{
+	font-size: 19px;
+	font-weight: 800;
+	color: #04052E;
+	padding: 5px;
+	margin:1px;
+}
+#B{
+	width: 85%;
+	margin-top: 2%;
+	margin-right: auto;
+	margin-left: auto;
+	}

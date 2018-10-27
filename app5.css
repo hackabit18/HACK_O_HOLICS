@@ -1,0 +1,67 @@
+.trip{
+	padding: 27px;
+}
+i{
+	padding: 5px;
+}
+h3{
+	/*font-family: 'Pacifico', cursive;*/
+	text-align: center;
+	font-family: 'KoHo', sans-serif;
+	font-size: 37px;
+	color:Brown;
+}
+.jumbotron{
+	background: yellow;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 120px;
+	padding: 10px;
+
+}
+h2{
+	text-align: center;
+	font-family: 'KoHo', sans-serif;
+	color:darkorchid;
+	
+	letter-spacing: 1px;
+
+}
+body{
+	background: url(Pictures/G.jpg);
+	background-size:cover;
+	height: 100%;
+	}
+/*html{
+	height: 100%;
+}*/
+
+.card{
+	width:350px;
+	float: left;
+	border:1px solid gray;
+	margin-top: 3px;
+	background:white;
+}
+.card-title{
+	text-align: center;
+	text-shadow: 2;
+	color:teal;
+}
+.card-subtitle{
+	text-align: center;
+}
+#H{
+	color: rgb(0 , 0 ,255 )
+}
+#I{
+
+	width: 85%;
+	margin-top: 2%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+h4{
+	text-align: center;
+}

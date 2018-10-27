@@ -1,0 +1,82 @@
+.jumbo1{
+    margin-top: 10%;
+	height: 10%;
+	background-color: #F5A30A;
+}
+#A{
+	text-align: center;
+	font-size: 30px;
+	text-shadow: 1px 1px 1px;
+	
+
+}
+#B{
+	width: 85%;
+	margin-top: 2%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*form{
+	margin:10%;
+}*/
+.trip{
+	
+	padding: 27px;
+}
+
+hr{
+	border: none;
+    height: 7px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+    width: 65%;
+    
+}
+.jumbo2{
+	margin-top: 10%;
+	height: 10%;
+	background-color: #F5A30A;
+}
+.jumbo3{
+	margin-top: 10%;
+	height: 10%;
+	background-color: #7D88AD;
+}
+.jumbo4{
+	margin-top: 10%;
+	height: 10%;
+	background-color: #F5A30A;
+}
+
+.modal.fade:not(.in).right .modal-dialog {
+    -webkit-transform: translate3d(25%, 0, 0);
+    transform: translate3d(25%, 0, 0);
+}
+
+i{
+	padding: 5px;
+}
+body{
+	background: url(Pictures/H.jpg);
+	background-size: cover;
+	height: 100%;
+}
+html{
+	height: 100%;
+}
+li div{
+	font-size: 19px;
+	font-weight: 600;
+
+}
+li u{
+	font-size: 25px;
+	font-weight: 700;
+	color:brown;
+}
+h4{
+	text-align: center;
+}
+

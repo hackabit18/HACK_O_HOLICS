@@ -1,0 +1,56 @@
+body,html{
+	height: 100%;
+}
+
+
+
+div:nth-of-type(4){
+	width: 30%;
+	margin:20px auto;
+}
+
+.jumbotron{
+	margin-top: 20%;
+	background-color: rgba(255, 255, 255, 0.5);
+	
+}
+.btn-block{
+	background-color: green;
+}
+/*body{
+	background: #00F260;  /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#bmw{
+	color: purple;
+	text-align: center;
+	
+}
+form{
+	padding: 30px;
+}
+
+li{
+	padding: 27px;
+}
+.navbar-brand{
+	font-size: 40px;
+	padding: 40px;
+}
+
+body{
+	background: url(Pictures/W.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+
+
+}
+html{
+	height: 100%;
+}
+i{
+	padding: 5px;
+}

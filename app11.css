@@ -1,0 +1,91 @@
+.trip{
+	padding: 27px;
+}
+.jumbotron{
+	
+	background: lightslategray;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 120px;
+	padding: 10px;
+	}
+h4{
+	text-align: center;
+	font-family: 'KoHo', sans-serif;
+	color:black;
+	font-weight: 600;
+}
+li{
+	list-style: none;
+}
+header{
+	border:0.3px solid gray;
+}
+@media (min-width:768px) { 
+	.navbar > .container {
+	    text-align: center;
+	}
+	.navbar-header,.navbar-brand,.navbar .navbar-nav,.navbar .navbar-nav > li {
+	    float: none;
+	    display: inline-block;
+	}
+	.collapse.navbar-collapse {
+	    float: none;
+	    display: inline-block!important;
+	    width: auto;
+	    clear: none;
+	}
+}
+.A{
+	margin-left: 3.5%;
+	margin-right: 3.5%;
+	text-align: center;
+	margin-top: 5px;
+	margin-top: 5px;
+}
+button{
+	background:gray;
+	
+	font-size: 27px;
+}
+#A{
+	text-align: left;
+	padding: 10px;
+}
+.D{
+	padding-left: 15%;
+	font-size: 20px;
+	background: #D0F2C7;
+	margin-top: 5px;
+
+}
+span{
+	margin-left: 54%;
+}
+.C{
+	
+	padding-right: 30px;
+}
+#C{
+	text-align: left;
+	padding: 10px;
+}
+#B{
+	text-align: left;
+	padding: 10px;
+}
+#D{
+	text-align: left;
+	padding: 10px;
+}
+#E{
+	text-align: left;
+	padding: 10px;
+}
+.opamp{
+	margin-left: 3.5%;
+	margin-right: 3.5%;
+	text-align: center;
+	margin-top: 5px;
+	margin-top: 5px;
+}

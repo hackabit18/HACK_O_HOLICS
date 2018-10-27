@@ -1,0 +1,183 @@
+/*body,html{
+	height:100%;
+}
+
+.bg{
+	position:relative;
+	/*background: url(Pictures/A.jpg);*/
+/*	background-repeat:no-repeat;
+	background-position: center;
+	background-size: cover;
+	height:100%;
+	opacity: 0.8;
+	border-bottom:40px solid black;
+	}
+
+ .A{
+	position:absolute;
+	display:block;
+	left:41%;
+	top: 8%;
+	opacity: 1;
+	right: 50%
+
+}
+
+.B{
+	position:absolute;
+	display:block;
+	left:40%;
+	top: 53%;
+	opacity: 1;
+	max-width: 100%;
+	max-height: 100%;
+	right:50%;
+
+}
+
+ div h1{
+	position: absolute;
+	left:23%;
+	top:72%;
+	font-family: font-family: 'Mali', cursive;
+	font-size:4vw;
+	color: red;
+	font-weight: 800;
+	letter-spacing: 5px;
+	max-width: 100%;
+	max-height: 100%;
+
+}
+
+.bg2{
+	position:relative;
+	background: url(Pictures/D.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	height:100%;
+	opacity: 1;#
+
+	}
+
+.C{
+	position: absolute;
+	text-align: center;
+	font-family: font-family: 'Mali', cursive;
+	top:63%;
+	left:28%;
+	color: brown;
+	letter-spacing: 2px;
+	text-shadow: 1px 1px 1px;
+	font-weight: 300;
+	font-size: 25px;
+
+}
+.D{
+	position: absolute;
+	text-align: center;
+	font-family: font-family: 'Mali', cursive;
+	top:72%;
+	left:35%;
+	color: brown;
+	letter-spacing: 2px;
+	text-shadow: 1px 1px 1px;
+	font-weight: 300;
+	font-size: 25px;
+}
+
+i{
+   position: absolute;
+   align-content: center;
+   top:85%;
+   left:49%; 
+
+}
+.fa-5x{
+  color: black;
+}
+
+.bg3{
+	position:relative;
+	background: url(Pictures/E.png);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: cover;
+	height:100%;
+	opacity: 0.8;
+	
+	border-top:50px solid black;
+    border-bottom: 120px solid brown;
+	}
+
+.jumbotron{
+	margin-top: 10%;
+	padding: 20px;
+	width:100%;
+	height: 35vh;
+	background-color: rgba(11, 99, 12, 0.2);
+}	
+
+.btn-primary{
+	margin :20px 150px;
+	padding: 20px;
+	font-size: 30px;
+
+}
+.E{
+	margin-top: 5%;
+	width: 18%;
+	height:10vh;
+	margin-left: 45%;
+	padding-top:20px;
+	padding-left: 45px;
+	padding-right: 20px;
+
+}
+
+span h1{
+	position: absolute;
+	left:33%;
+	top:99%;
+	font-family: font-family: 'Mali', cursive;
+	font-size:2vw;
+	color: white;
+	font-weight:400;
+	letter-spacing: 5px;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+li{
+	padding: 27px;
+}
+
+.navbar-brand{
+	padding: 40px;
+}*/
+
+img{
+	width: 100%;
+	height:100%;
+}
+body{
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+html{
+	height: 100%;
+}
+h1{
+	color:red;
+	font-family: 'Spicy Rice', cursive;
+	letter-spacing: 2px;
+	font-size: 55px;
+}
+h2{
+	color:red;
+	font-family: 'Spicy Rice', cursive;
+	letter-spacing: 2px;
+	font-size:40px;
+}
